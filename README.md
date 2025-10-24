@@ -5,3 +5,4 @@ Demo DevOps project with Git version control.
 - main: Production-ready code
 - dev: Development branch
 - feature: Feature branch
+![Git Branches Diagram](images/git-branches.png)
